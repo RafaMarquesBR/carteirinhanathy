@@ -1,10 +1,15 @@
 
-{
-  "name": "Carteirinha de Estudante",
+{ 
+  "name": "Carteirinha Estudante",
   "short_name": "Carteirinha",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#007bff",
-  "icons": []
+  "background_color": "#0077cc",
+  "theme_color": "#0077cc",
+  "description": "Carteirinha digital interativa",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
 }
